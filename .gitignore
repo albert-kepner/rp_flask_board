@@ -65,6 +65,8 @@ board.sqlite
 # Flask stuff:
 instance/
 .webassets-cache
+.idea/
+
 
 # Scrapy stuff:
 .scrapy
